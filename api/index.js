@@ -1,6 +1,6 @@
 import express from "express";
 // import serverless from "serverless-http";
-import characters from "./database/chatacter.js"
+import characters from "../database/chatacter.js"
 
 const app = express();
 
